@@ -6,7 +6,7 @@ GET OUT, WHILE YOU STILL CAN.
 
 File Version: `6.6.6.6`
 
-Internal version: *0.8-beta*
+Internal version: *0.8-beta2*
 
 **PurpleEYE**
 
