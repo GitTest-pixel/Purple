@@ -6,10 +6,10 @@ YOU'RE NOT SUPPOSED TO BE HERE.
 
 GET OUT, WHILE YOU STILL CAN.
 
-**PurpleEYE**
+# **PurpleEYE**
 
-Type: `???`
+### Type: ???
 
 File Version: `6.6.6.6`
 
-Internal version: *0.8*
+Internal version: `0.8`
