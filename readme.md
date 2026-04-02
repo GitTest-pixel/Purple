@@ -1,3 +1,5 @@
+![IMG_20260403_000341_846](https://github.com/user-attachments/assets/3e54505b-9c79-471c-81ff-6125f2f3b75b)
+
 YOU'RE NOT ALONE ANYMORE.
 
 YOU'RE NOT SUPPOSED TO BE HERE. 
@@ -10,6 +12,4 @@ Type: `???`
 
 File Version: `6.6.6.6`
 
-Internal version: *0.8-beta2*
-
-Credits: CyberLink 2025-2026
+Internal version: *0.8*
