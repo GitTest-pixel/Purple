@@ -12,4 +12,4 @@ GET OUT, WHILE YOU STILL CAN.
 
 File Version: `6.6.6.6`
 
-Internal version: `0.8`
+Internal version: `0.9-alpha`
