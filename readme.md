@@ -12,4 +12,8 @@ GET OUT, WHILE YOU STILL CAN.
 
 File Version: `6.6.6.6`
 
-Internal version: `0.9-beta1`
+File Name: `Purple`
+
+Internal version: `0.9-beta2`
+
+Internal File Name: `死命`
